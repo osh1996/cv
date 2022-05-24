@@ -1,0 +1,22 @@
+body {
+  background-color: #B8F1B0;
+}
+
+img {
+  border-radius: 50%;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: navy;
+}
+
+h3 {
+  color: navy;
+}
